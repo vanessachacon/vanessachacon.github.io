@@ -1,8 +1,8 @@
 h1 {color: aquamarine;
 }
 
-background {
-    background-image:url('banner.jpg');
+body {
+background-image: url("vanessa-chacon\banner.jpg");
 }
 
 p {
@@ -11,38 +11,17 @@ p {
     margin:25px;
     padding:25px;
 }
-p {text-align: center;
-}
-img {  
-  max-width: 100%;  
-  height: auto;  
-  }  
+
 ol{
-    text-align: left;
-    color: #ADE25D
-}
-ul{
-    color: #CFFFB3;
-    text-align: left
+  text-align: left;
+  color: #bbbbbb
 }
 
-a:link {
-    color: #ffffff;
-  } 
-a:visited{
-    color: #ec20a8;
-  }
-a:hover {
-    color: #ADE25D;
-  }
 img{
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-      }
+  max-width: 25%;  
+  height: auto;  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
 
-q{
-    font-family: 'Quicksand', sans-serif;
-
-
-}
